@@ -1,0 +1,19 @@
+.footer {
+    background-color: darkgrey;
+
+    ul {
+
+        display: flex;
+        list-style: none;
+        width: 182px;
+        justify-content: center;
+
+        li {
+            a {
+                color: aliceblue;
+                padding: 15px;
+                text-decoration: none;
+            }
+        }
+    }
+}

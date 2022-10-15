@@ -1,0 +1,30 @@
+.main-nosotros {
+    background-color: aqua;
+
+    .img-main {
+        vertical-align: middle;
+        display: flex;
+        width: 100%;
+        align-content: space-between;
+        align-items: center;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+
+        .p {
+            .bloque {
+                background-color: burlywood;
+                border: 3px solid black;
+                margin-left: 10px;
+                width: 70%;
+                height: 80%;
+                display: block;
+            }
+
+
+        }
+
+    }
+
+
+}
